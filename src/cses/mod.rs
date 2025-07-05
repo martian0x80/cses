@@ -1,0 +1,13 @@
+pub mod bit_strings;
+pub mod coin_piles;
+pub mod collatz;
+pub mod gray_code;
+pub mod increasing_array;
+pub mod missing_number;
+pub mod number_spiral;
+pub mod palindrome_reorder;
+pub mod permutations;
+pub mod repetitions;
+pub mod trailing_zeroes;
+pub mod two_knights;
+pub mod two_sets;
